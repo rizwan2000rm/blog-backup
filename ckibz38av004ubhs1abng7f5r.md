@@ -1,4 +1,4 @@
-## Linux Web Development Enviorment in Windows 10
+## Linux Web Development Environment in Windows 10
 
 
 Photo by Kevin Ku on Unsplash
