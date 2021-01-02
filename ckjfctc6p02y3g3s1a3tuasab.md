@@ -91,6 +91,7 @@ A front-end developer architects and develops websites and applications using we
 
 1. Frameworks aim to facilitate software developments by allowing designers and programmers to devote their time to meeting software requirements rather than dealing with the more standard low-level details of providing a working system, thereby reducing overall development time.
 
+
 * **HTML, CSS and JavaScript**
 
 HTML, CSS and JavaScript are the foundation of Frontend Web Development you are going to use these every day if you are doing any kind of Frontend Development. I would suggest spending most of the time here. People are really keen to jump into Frameworks like React, don’t underestimate the power of HTML, CSS and JavaScript. Build some webpages with them, then go to advance stuff like complex responsive layouts, animations etc. I really think if you know them well it could also be enough to land a job.
